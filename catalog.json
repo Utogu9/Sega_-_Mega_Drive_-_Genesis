@@ -4249,6 +4249,206 @@
               "match": "exact"
             }
           ]
+        },
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "4b0c168c9468b3b73c6a4e56131ffce2f0ddc58d4e70c0ab4ba11969556c08f2",
+          "bytes": 954102,
+          "width": 3366,
+          "height": 2100,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 6735872,
+              "lossy90": 954102
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic1_box_us_nfr1.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "7fe782a548e14704d212171d8b500acb8cf1aaa4f3f47eb76955596636ed5f08",
+              "source_bytes": 4051274,
+              "url": "https://info.sonicretro.org/images/1/13/Sonic1_box_us_nfr1.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 6735872,
+                  "lossy90": 954102
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic1_box_us_nfr1.jpg",
+              "uploader": "Nova Toad",
+              "uploader_url": "https://info.sonicretro.org/User:Nova_Toad",
+              "uploaded_at": "2024-04-25T15:40:04Z",
+              "source_sha1": "75977316482dbd82af4d3281e20e2fd3046e8c29",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic1_box_us_nfr1.jpg"
+            }
+          ],
+          "path": "00001009-00/cover_full.webp"
+        },
+        "cover_full2": {
+          "kind": "cover_full",
+          "sha256": "d501aecf2566ea95b8d40f1ec30d13faef6aca87b1a257057d36ec0d9b67a433",
+          "bytes": 997608,
+          "width": 3167,
+          "height": 2024,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 6210912,
+              "lossy90": 997608
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic1_md_us_classic_cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "e96e258b03e5ddc3f91e86c5f40ad72a30867a4e04a27d9dca54aefab02edffe",
+              "source_bytes": 7471311,
+              "url": "https://info.sonicretro.org/images/8/89/Sonic1_md_us_classic_cover.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 6210912,
+                  "lossy90": 997608
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic1_md_us_classic_cover.jpg",
+              "uploader": "BinBowie",
+              "uploader_url": "https://info.sonicretro.org/User:BinBowie",
+              "uploaded_at": "2016-03-09T23:31:55Z",
+              "source_sha1": "d673e4e21db6a6ae63936f610e640bcceb24d20b",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic1_md_us_classic_cover.jpg"
+            }
+          ],
+          "path": "00001009-00/cover_full2.webp"
+        },
+        "cover_full3": {
+          "kind": "cover_full",
+          "sha256": "ec17cb29cc39a080ec517ffd96ecb144be806a4eb80d93af6ec9dcbe64a16e44",
+          "bytes": 2209944,
+          "width": 3181,
+          "height": 2028,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 8115088,
+              "lossy90": 2209944
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic1_MD_US_nfr2_cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "9d87e438e5d4b048dd884759063d9af3ad3376506544be6703d07bf19c08dbc2",
+              "source_bytes": 1505679,
+              "url": "https://info.sonicretro.org/images/5/52/Sonic1_MD_US_nfr2_cover.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 8115088,
+                  "lossy90": 2209944
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic1_MD_US_nfr2_cover.jpg",
+              "uploader": "Hivebrain",
+              "uploader_url": "https://info.sonicretro.org/User:Hivebrain",
+              "uploaded_at": "2019-03-16T16:59:25Z",
+              "source_sha1": "5692037d10aff1b5cfffbeb7502ed29ff21bc958",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic1_MD_US_nfr2_cover.jpg"
+            }
+          ],
+          "path": "00001009-00/cover_full3.webp"
+        },
+        "cover_full4": {
+          "kind": "cover_full",
+          "sha256": "5a5a1ae5b11390c598a04b717a1795fcfa921d2af068d12e21c1827c3abb9cb8",
+          "bytes": 2168232,
+          "width": 3143,
+          "height": 2028,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 7699188,
+              "lossy90": 2168232
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sth_md_us_cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "4c415cae4bfc746718d6dafe4330a71d532fb436f78cf71901b4a7b5000f3a63",
+              "source_bytes": 1456680,
+              "url": "https://info.sonicretro.org/images/7/77/Sth_md_us_cover.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 7699188,
+                  "lossy90": 2168232
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sth_md_us_cover.jpg",
+              "uploader": "Hivebrain",
+              "uploader_url": "https://info.sonicretro.org/User:Hivebrain",
+              "uploaded_at": "2019-03-16T16:57:06Z",
+              "source_sha1": "84a0b99edc71665087e41ab62399581f3d27ba9b",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sth_md_us_cover.jpg"
+            }
+          ],
+          "path": "00001009-00/cover_full4.webp"
         }
       },
       "serial_identifiers": [
@@ -6453,6 +6653,156 @@
               "match": "exact"
             }
           ]
+        },
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "2807f30f610df40079a7781b77c4a9bc97d6290c18cceb1f79896e3c41ec360d",
+          "bytes": 872338,
+          "width": 2500,
+          "height": 1560,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 5009808,
+              "lossy90": 872338
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic2_box_us.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "e9ac10bcb6ebbb0165d06c808951e66b17322d5a8ded3d7586edc7976301a26e",
+              "source_bytes": 3109594,
+              "url": "https://info.sonicretro.org/images/4/45/Sonic2_box_us.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 5009808,
+                  "lossy90": 872338
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic2_box_us.jpg",
+              "uploader": "Scarred Sun",
+              "uploader_url": "https://info.sonicretro.org/User:Scarred_Sun",
+              "uploaded_at": "2009-08-26T21:33:37Z",
+              "source_sha1": "9e5cfe7029b68b00ae882ea1621717ac99661d33",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic2_box_us.jpg"
+            }
+          ],
+          "path": "00001051-00/cover_full.webp"
+        },
+        "cover_full2": {
+          "kind": "cover_full",
+          "sha256": "3198aafa8a42487d8f8aca77d7975ebeef17940a5dde87e2d066c7db6dcd3f38",
+          "bytes": 899844,
+          "width": 2000,
+          "height": 1286,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 3693312,
+              "lossy90": 899844
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic2_md_nfr.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "ca2126487818bacab1e54af292fd0727d0a0580751f4ae5c5011f0c5922f4956",
+              "source_bytes": 675928,
+              "url": "https://info.sonicretro.org/images/4/47/Sonic2_md_nfr.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "selected_landscape_cover",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 3693312,
+                  "lossy90": 899844
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic2_md_nfr.jpg",
+              "uploader": "Scarred Sun",
+              "uploader_url": "https://info.sonicretro.org/User:Scarred_Sun",
+              "uploaded_at": "2008-07-10T19:21:59Z",
+              "source_sha1": "e6dfaaa02f08c8f9642c83f6e8421c5efe1a504b",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic2_md_nfr.jpg"
+            }
+          ],
+          "path": "00001051-00/cover_full2.webp"
+        },
+        "cover_full3": {
+          "kind": "cover_full",
+          "sha256": "8a1bbd403c0bd260d2a65481969622b2045812832d004a6b9a03fbcf02b0a1da",
+          "bytes": 313396,
+          "width": 1500,
+          "height": 962,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1538004,
+              "lossy90": 313396
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "105fe95f68619452a279954e2344ba4e3498a09382fabf5a1320ab3efff753e7",
+              "source_bytes": 426516,
+              "url": "https://info.sonicretro.org/images/8/81/Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 1538004,
+                  "lossy90": 313396
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "uploader": "Nova Toad",
+              "uploader_url": "https://info.sonicretro.org/User:Nova_Toad",
+              "uploaded_at": "2024-06-07T14:28:07Z",
+              "source_sha1": "c4d2a9222acf308d3f31bde838bacf162b80e3f7",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg"
+            }
+          ],
+          "path": "00001051-00/cover_full3.webp"
         }
       },
       "serial_identifiers": [
@@ -6502,45 +6852,6 @@
       ],
       "images": {
         "cover_front": {
-          "sha256": "315d3d5402b624b3885d9e2fc69e3c3081a95e893d30dc2f43d433e48f98e20f",
-          "bytes": 72432,
-          "width": 483,
-          "height": 680,
-          "alpha": false,
-          "compression": {
-            "policy": "smallest-lossless-or-lossy90-v2",
-            "lossless": false,
-            "reason": "smallest_webp",
-            "quality": 90,
-            "candidate_bytes": {
-              "lossless": 315540,
-              "lossy90": 72432
-            }
-          },
-          "kind": "cover_front",
-          "path": "00001051-01/cover_front.webp",
-          "sources": [
-            {
-              "source": "Named_Boxarts/Sonic The Hedgehog 2 (World) (Rev A).png",
-              "source_sha256": "09a2cf14d74bf38c09e0a62424d854bf914ef18996008f88e0a6b36ec7ff22f3",
-              "source_bytes": 397606,
-              "compression": {
-                "policy": "smallest-lossless-or-lossy90-v2",
-                "lossless": false,
-                "reason": "smallest_webp",
-                "quality": 90,
-                "candidate_bytes": {
-                  "lossless": 315540,
-                  "lossy90": 72432
-                }
-              },
-              "redump_id": "1234",
-              "dat_name": "Sonic The Hedgehog 2 (World) (Rev A)",
-              "match": "exact"
-            }
-          ]
-        },
-        "cover_front2": {
           "sha256": "0fd52601599c48fd6de8841140344128650af9657f72dd7de34b4eb7d9054060",
           "bytes": 64004,
           "width": 484,
@@ -6557,7 +6868,7 @@
             }
           },
           "kind": "cover_front",
-          "path": "00001051-01/cover_front2.webp",
+          "path": "00001051-01/cover_front.webp",
           "sources": [
             {
               "source": "Named_Boxarts/Sonic The Hedgehog 2 (World) (Rev A) (Sonic Mega Collection).png",
@@ -6764,6 +7075,195 @@
               },
               "redump_id": "2454",
               "dat_name": "Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "2807f30f610df40079a7781b77c4a9bc97d6290c18cceb1f79896e3c41ec360d",
+          "bytes": 872338,
+          "width": 2500,
+          "height": 1560,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 5009808,
+              "lossy90": 872338
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic2_box_us.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "e9ac10bcb6ebbb0165d06c808951e66b17322d5a8ded3d7586edc7976301a26e",
+              "source_bytes": 3109594,
+              "url": "https://info.sonicretro.org/images/4/45/Sonic2_box_us.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 5009808,
+                  "lossy90": 872338
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic2_box_us.jpg",
+              "uploader": "Scarred Sun",
+              "uploader_url": "https://info.sonicretro.org/User:Scarred_Sun",
+              "uploaded_at": "2009-08-26T21:33:37Z",
+              "source_sha1": "9e5cfe7029b68b00ae882ea1621717ac99661d33",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic2_box_us.jpg"
+            }
+          ],
+          "path": "00001051-01/cover_full.webp"
+        },
+        "cover_full2": {
+          "kind": "cover_full",
+          "sha256": "3198aafa8a42487d8f8aca77d7975ebeef17940a5dde87e2d066c7db6dcd3f38",
+          "bytes": 899844,
+          "width": 2000,
+          "height": 1286,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 3693312,
+              "lossy90": 899844
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic2_md_nfr.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "ca2126487818bacab1e54af292fd0727d0a0580751f4ae5c5011f0c5922f4956",
+              "source_bytes": 675928,
+              "url": "https://info.sonicretro.org/images/4/47/Sonic2_md_nfr.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "selected_landscape_cover",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 3693312,
+                  "lossy90": 899844
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic2_md_nfr.jpg",
+              "uploader": "Scarred Sun",
+              "uploader_url": "https://info.sonicretro.org/User:Scarred_Sun",
+              "uploaded_at": "2008-07-10T19:21:59Z",
+              "source_sha1": "e6dfaaa02f08c8f9642c83f6e8421c5efe1a504b",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic2_md_nfr.jpg"
+            }
+          ],
+          "path": "00001051-01/cover_full2.webp"
+        },
+        "cover_full3": {
+          "kind": "cover_full",
+          "sha256": "8a1bbd403c0bd260d2a65481969622b2045812832d004a6b9a03fbcf02b0a1da",
+          "bytes": 313396,
+          "width": 1500,
+          "height": 962,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1538004,
+              "lossy90": 313396
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "105fe95f68619452a279954e2344ba4e3498a09382fabf5a1320ab3efff753e7",
+              "source_bytes": 426516,
+              "url": "https://info.sonicretro.org/images/8/81/Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 1538004,
+                  "lossy90": 313396
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "uploader": "Nova Toad",
+              "uploader_url": "https://info.sonicretro.org/User:Nova_Toad",
+              "uploaded_at": "2024-06-07T14:28:07Z",
+              "source_sha1": "c4d2a9222acf308d3f31bde838bacf162b80e3f7",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg"
+            }
+          ],
+          "path": "00001051-01/cover_full3.webp"
+        },
+        "cover_front3": {
+          "sha256": "315d3d5402b624b3885d9e2fc69e3c3081a95e893d30dc2f43d433e48f98e20f",
+          "bytes": 72432,
+          "width": 483,
+          "height": 680,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 315540,
+              "lossy90": 72432
+            }
+          },
+          "kind": "cover_front",
+          "path": "00001051-01/cover_front3.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sonic The Hedgehog 2 (World) (Rev A).png",
+              "source_sha256": "09a2cf14d74bf38c09e0a62424d854bf914ef18996008f88e0a6b36ec7ff22f3",
+              "source_bytes": 397606,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 315540,
+                  "lossy90": 72432
+                }
+              },
+              "redump_id": "1234",
+              "dat_name": "Sonic The Hedgehog 2 (World) (Rev A)",
               "match": "exact"
             }
           ]
@@ -19688,6 +20188,206 @@
               "match": "exact"
             }
           ]
+        },
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "4b0c168c9468b3b73c6a4e56131ffce2f0ddc58d4e70c0ab4ba11969556c08f2",
+          "bytes": 954102,
+          "width": 3366,
+          "height": 2100,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 6735872,
+              "lossy90": 954102
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic1_box_us_nfr1.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "7fe782a548e14704d212171d8b500acb8cf1aaa4f3f47eb76955596636ed5f08",
+              "source_bytes": 4051274,
+              "url": "https://info.sonicretro.org/images/1/13/Sonic1_box_us_nfr1.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 6735872,
+                  "lossy90": 954102
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic1_box_us_nfr1.jpg",
+              "uploader": "Nova Toad",
+              "uploader_url": "https://info.sonicretro.org/User:Nova_Toad",
+              "uploaded_at": "2024-04-25T15:40:04Z",
+              "source_sha1": "75977316482dbd82af4d3281e20e2fd3046e8c29",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic1_box_us_nfr1.jpg"
+            }
+          ],
+          "path": "00004049-01/cover_full.webp"
+        },
+        "cover_full2": {
+          "kind": "cover_full",
+          "sha256": "d501aecf2566ea95b8d40f1ec30d13faef6aca87b1a257057d36ec0d9b67a433",
+          "bytes": 997608,
+          "width": 3167,
+          "height": 2024,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 6210912,
+              "lossy90": 997608
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic1_md_us_classic_cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "e96e258b03e5ddc3f91e86c5f40ad72a30867a4e04a27d9dca54aefab02edffe",
+              "source_bytes": 7471311,
+              "url": "https://info.sonicretro.org/images/8/89/Sonic1_md_us_classic_cover.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 6210912,
+                  "lossy90": 997608
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic1_md_us_classic_cover.jpg",
+              "uploader": "BinBowie",
+              "uploader_url": "https://info.sonicretro.org/User:BinBowie",
+              "uploaded_at": "2016-03-09T23:31:55Z",
+              "source_sha1": "d673e4e21db6a6ae63936f610e640bcceb24d20b",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic1_md_us_classic_cover.jpg"
+            }
+          ],
+          "path": "00004049-01/cover_full2.webp"
+        },
+        "cover_full3": {
+          "kind": "cover_full",
+          "sha256": "ec17cb29cc39a080ec517ffd96ecb144be806a4eb80d93af6ec9dcbe64a16e44",
+          "bytes": 2209944,
+          "width": 3181,
+          "height": 2028,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 8115088,
+              "lossy90": 2209944
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic1_MD_US_nfr2_cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "9d87e438e5d4b048dd884759063d9af3ad3376506544be6703d07bf19c08dbc2",
+              "source_bytes": 1505679,
+              "url": "https://info.sonicretro.org/images/5/52/Sonic1_MD_US_nfr2_cover.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 8115088,
+                  "lossy90": 2209944
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic1_MD_US_nfr2_cover.jpg",
+              "uploader": "Hivebrain",
+              "uploader_url": "https://info.sonicretro.org/User:Hivebrain",
+              "uploaded_at": "2019-03-16T16:59:25Z",
+              "source_sha1": "5692037d10aff1b5cfffbeb7502ed29ff21bc958",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic1_MD_US_nfr2_cover.jpg"
+            }
+          ],
+          "path": "00004049-01/cover_full3.webp"
+        },
+        "cover_full4": {
+          "kind": "cover_full",
+          "sha256": "5a5a1ae5b11390c598a04b717a1795fcfa921d2af068d12e21c1827c3abb9cb8",
+          "bytes": 2168232,
+          "width": 3143,
+          "height": 2028,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 7699188,
+              "lossy90": 2168232
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sth_md_us_cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "4c415cae4bfc746718d6dafe4330a71d532fb436f78cf71901b4a7b5000f3a63",
+              "source_bytes": 1456680,
+              "url": "https://info.sonicretro.org/images/7/77/Sth_md_us_cover.jpg",
+              "page": "Sonic the Hedgehog (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 7699188,
+                  "lossy90": 2168232
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sth_md_us_cover.jpg",
+              "uploader": "Hivebrain",
+              "uploader_url": "https://info.sonicretro.org/User:Hivebrain",
+              "uploaded_at": "2019-03-16T16:57:06Z",
+              "source_sha1": "84a0b99edc71665087e41ab62399581f3d27ba9b",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sth_md_us_cover.jpg"
+            }
+          ],
+          "path": "00004049-01/cover_full4.webp"
         }
       },
       "serial_identifiers": [
@@ -96466,6 +97166,18 @@
           ],
           "category": "Games",
           "version": null
+        },
+        {
+          "redump_id": "1924",
+          "entry_id": "1924",
+          "provider": "no-intro",
+          "name": "Sonic Spinball (USA) (Sega Channel)",
+          "serial_raw": "MK-1537-00",
+          "serials": [
+            "MK-1537-00"
+          ],
+          "category": "Games",
+          "version": null
         }
       ],
       "images": {
@@ -96759,6 +97471,56 @@
               "match": "exact"
             }
           ]
+        },
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "9f91fb7b01cdbe62debfba1d810d1b9a42f0a93ec011800ee340a8c25117456e",
+          "bytes": 717508,
+          "width": 2000,
+          "height": 1260,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 3736728,
+              "lossy90": 717508
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Spinball-box-us.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "e4c485386ef2036b5536055592a1f5554b8325ce5e05a9661e73bcd1671ce8ff",
+              "source_bytes": 1030173,
+              "url": "https://info.sonicretro.org/images/7/73/Spinball-box-us.jpg",
+              "page": "Sonic the Hedgehog Spinball",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 3736728,
+                  "lossy90": 717508
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Spinball-box-us.jpg",
+              "uploader": "Scarred Sun",
+              "uploader_url": "https://info.sonicretro.org/User:Scarred_Sun",
+              "uploaded_at": "2009-08-28T20:56:58Z",
+              "source_sha1": "0b5822959527e26834ccc11c093637acc4e4817f",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Spinball-box-us.jpg"
+            }
+          ],
+          "path": "MK-1537-00/cover_full.webp"
         }
       },
       "serial_identifiers": [
@@ -102162,47 +102924,70 @@
           ],
           "category": "Games",
           "version": null
+        },
+        {
+          "redump_id": "3484",
+          "entry_id": "3484",
+          "provider": "no-intro",
+          "name": "Sonic & Knuckles (USA) (Sega Channel)",
+          "serial_raw": "MK-1563-00",
+          "serials": [
+            "MK-1563-00"
+          ],
+          "category": "Games",
+          "version": null
         }
       ],
       "images": {
         "cover_front": {
-          "sha256": "d34189100ca3e231f9cf9d4d871c1460969c0ed3e1dcc8c39bf70e049615cc64",
-          "bytes": 50200,
-          "width": 512,
-          "height": 731,
-          "alpha": true,
+          "kind": "cover_front",
+          "sha256": "b7cc5e125ccf88540a8971dfa1064b8c5f4525bd99e0ccf57e5e22d13a9a3326",
+          "bytes": 1935962,
+          "width": 2987,
+          "height": 4162,
+          "alpha": false,
           "compression": {
             "policy": "smallest-lossless-or-lossy90-v2",
             "lossless": false,
             "reason": "smallest_webp",
             "quality": 90,
             "candidate_bytes": {
-              "lossless": 155688,
-              "lossy90": 50200
+              "lossless": 13693136,
+              "lossy90": 1935962
             }
           },
-          "kind": "cover_front",
-          "path": "MK-1563-00/cover_front.webp",
           "sources": [
             {
-              "source": "Named_Boxarts/Sonic _ Knuckles (World).png",
-              "source_sha256": "618c0d99ff22c3645e7cf112339714c517835f06e7596daee7afcb3a649df4d4",
-              "source_bytes": 270351,
+              "source": "Sonic Retro/Sk-box-us.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "ad513a9e65302862b7355f2a88f48440d9c6eb4a96cc1bafcf5f6e3d386723c9",
+              "source_bytes": 14740922,
+              "url": "https://info.sonicretro.org/images/7/72/Sk-box-us.jpg",
+              "page": "Sonic & Knuckles",
+              "region": "USA",
+              "classification": "portrait_box",
+              "match": "exact_file_usage_or_explicit_alias",
               "compression": {
                 "policy": "smallest-lossless-or-lossy90-v2",
                 "lossless": false,
                 "reason": "smallest_webp",
                 "quality": 90,
                 "candidate_bytes": {
-                  "lossless": 155688,
-                  "lossy90": 50200
+                  "lossless": 13693136,
+                  "lossy90": 1935962
                 }
               },
-              "redump_id": "1216",
-              "dat_name": "Sonic & Knuckles (World)",
-              "match": "libretro_escaped"
+              "file_page": "https://info.sonicretro.org/File:Sk-box-us.jpg",
+              "uploader": "AB",
+              "uploader_url": "https://info.sonicretro.org/User:AB",
+              "uploaded_at": "2024-10-18T05:00:23Z",
+              "source_sha1": "c5a869ed4dc6bf2cb6f8400457ecec5025e3511d",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sk-box-us.jpg"
             }
-          ]
+          ],
+          "path": "MK-1563-00/cover_front.webp"
         },
         "cover_front2": {
           "sha256": "e36f80650f062d44097e76222db9142c11c35f1ac5cc54a343b68e6c75f42860",
@@ -102599,6 +103384,95 @@
               },
               "redump_id": "2456",
               "dat_name": "Sonic & Knuckles (World) (Sonic Classic Collection)",
+              "match": "libretro_escaped"
+            }
+          ]
+        },
+        "cover_back": {
+          "kind": "cover_back",
+          "sha256": "ee6f80f198ba14870252c57abee586ce28a2435d004a9be7bfbc6ed4fec555cb",
+          "bytes": 4384914,
+          "width": 3012,
+          "height": 4162,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 19214494,
+              "lossy90": 4384914
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sk-box-us_back.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "5a5cf790e30154208691df7e2a0c3334ea166c3c8b63db05bdde0b1c07857acb",
+              "source_bytes": 19283490,
+              "url": "https://info.sonicretro.org/images/8/8e/Sk-box-us_back.jpg",
+              "page": "Sonic & Knuckles",
+              "region": "USA",
+              "classification": "explicit_back",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 19214494,
+                  "lossy90": 4384914
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sk-box-us_back.jpg",
+              "uploader": "AB",
+              "uploader_url": "https://info.sonicretro.org/User:AB",
+              "uploaded_at": "2024-10-18T05:00:39Z",
+              "source_sha1": "9b7334e6d4bea3b718feea3589e1e16885cb3f55",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sk-box-us_back.jpg"
+            }
+          ],
+          "path": "MK-1563-00/cover_back.webp"
+        },
+        "cover_front4": {
+          "sha256": "d34189100ca3e231f9cf9d4d871c1460969c0ed3e1dcc8c39bf70e049615cc64",
+          "bytes": 50200,
+          "width": 512,
+          "height": 731,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 155688,
+              "lossy90": 50200
+            }
+          },
+          "kind": "cover_front",
+          "path": "MK-1563-00/cover_front4.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sonic _ Knuckles (World).png",
+              "source_sha256": "618c0d99ff22c3645e7cf112339714c517835f06e7596daee7afcb3a649df4d4",
+              "source_bytes": 270351,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 155688,
+                  "lossy90": 50200
+                }
+              },
+              "redump_id": "1216",
+              "dat_name": "Sonic & Knuckles (World)",
               "match": "libretro_escaped"
             }
           ]
@@ -106575,6 +107449,56 @@
               "match": "exact"
             }
           ]
+        },
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "d2b3781432e0fb800827b2f383de88ea57d46dcadab09e537f6937bc6589c68d",
+          "bytes": 871682,
+          "width": 2129,
+          "height": 1371,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 3578574,
+              "lossy90": 871682
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Meanbean-box-us.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "dcf91ee2e1c844188b9c1a217c7c66d0ab7e19004e90aec7e53bffdc30f1e914",
+              "source_bytes": 1845186,
+              "url": "https://info.sonicretro.org/images/f/fa/Meanbean-box-us.jpg",
+              "page": "Dr. Robotnik's Mean Bean Machine",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 3578574,
+                  "lossy90": 871682
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Meanbean-box-us.jpg",
+              "uploader": "Hivebrain",
+              "uploader_url": "https://info.sonicretro.org/User:Hivebrain",
+              "uploaded_at": "2010-02-14T00:53:43Z",
+              "source_sha1": "96682891a4634cff430b314116538c9749884d55",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Meanbean-box-us.jpg"
+            }
+          ],
+          "path": "MK-1706-00/cover_full.webp"
         }
       },
       "serial_identifiers": [
@@ -109204,43 +110128,54 @@
       ],
       "images": {
         "cover_front": {
-          "sha256": "3a127364b1085b2eb1721e8c15217dc36aa68d8f2d661170fd87e6245957f2cb",
-          "bytes": 83324,
-          "width": 484,
-          "height": 680,
-          "alpha": true,
+          "kind": "cover_front",
+          "sha256": "14509d45fa69b331baa14705e5f756f64c2954a743c08c26ddc7f29e1b533fb9",
+          "bytes": 183046,
+          "width": 800,
+          "height": 1132,
+          "alpha": false,
           "compression": {
             "policy": "smallest-lossless-or-lossy90-v2",
             "lossless": false,
             "reason": "smallest_webp",
             "quality": 90,
             "candidate_bytes": {
-              "lossless": 447302,
-              "lossy90": 83324
+              "lossless": 1036156,
+              "lossy90": 183046
             }
           },
-          "kind": "cover_front",
-          "path": "MK-1844-00/cover_front.webp",
           "sources": [
             {
-              "source": "Named_Boxarts/Sonic 3D Blast (USA, Europe, Korea) (En).png",
-              "source_sha256": "a31561e6e829e734c916fc5a1fa2a25f799590deadc084da358dd779c353432c",
-              "source_bytes": 619332,
+              "source": "Sonic Retro/S3d-box-us.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "8a26589d0c1b86fc636ef43479db172f24d0c6ba228a6ebe1f3e452bef56432a",
+              "source_bytes": 211843,
+              "url": "https://info.sonicretro.org/images/6/6a/S3d-box-us.jpg",
+              "page": "Sonic 3D: Flickies' Island",
+              "region": "USA",
+              "classification": "portrait_box",
+              "match": "exact_file_usage_or_explicit_alias",
               "compression": {
                 "policy": "smallest-lossless-or-lossy90-v2",
                 "lossless": false,
                 "reason": "smallest_webp",
                 "quality": 90,
                 "candidate_bytes": {
-                  "lossless": 447302,
-                  "lossy90": 83324
+                  "lossless": 1036156,
+                  "lossy90": 183046
                 }
               },
-              "redump_id": "1221",
-              "dat_name": "Sonic 3D Blast (USA, Europe, Korea) (En)",
-              "match": "exact"
+              "file_page": "https://info.sonicretro.org/File:S3d-box-us.jpg",
+              "uploader": "Black Squirrel",
+              "uploader_url": "https://info.sonicretro.org/User:Black_Squirrel",
+              "uploaded_at": "2020-02-02T15:04:24Z",
+              "source_sha1": "c2943bf18e2857fa002c46d922a6272b589fadf9",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:S3d-box-us.jpg"
             }
-          ]
+          ],
+          "path": "MK-1844-00/cover_front.webp"
         },
         "logo": {
           "sha256": "0f69a7a5e8d93dd026eda5e5a12d87b5da8a9fb0c3c4077c77c00e3ce747fa3e",
@@ -109358,6 +110293,95 @@
               "match": "exact"
             }
           ]
+        },
+        "cover_front2": {
+          "sha256": "3a127364b1085b2eb1721e8c15217dc36aa68d8f2d661170fd87e6245957f2cb",
+          "bytes": 83324,
+          "width": 484,
+          "height": 680,
+          "alpha": true,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 447302,
+              "lossy90": 83324
+            }
+          },
+          "kind": "cover_front",
+          "path": "MK-1844-00/cover_front2.webp",
+          "sources": [
+            {
+              "source": "Named_Boxarts/Sonic 3D Blast (USA, Europe, Korea) (En).png",
+              "source_sha256": "a31561e6e829e734c916fc5a1fa2a25f799590deadc084da358dd779c353432c",
+              "source_bytes": 619332,
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 447302,
+                  "lossy90": 83324
+                }
+              },
+              "redump_id": "1221",
+              "dat_name": "Sonic 3D Blast (USA, Europe, Korea) (En)",
+              "match": "exact"
+            }
+          ]
+        },
+        "cover_front3": {
+          "kind": "cover_front",
+          "sha256": "0f3ca2be042495ee70aac3b6ca873d46a66ca34de5bd1356b5e9c686d281fe1c",
+          "bytes": 101470,
+          "width": 640,
+          "height": 901,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 505384,
+              "lossy90": 101470
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic_3D_MD_US_Cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "b09de89c7c471db25e105241a978f6d679c76e6de715bfb24fe33a2595349a3b",
+              "source_bytes": 88659,
+              "url": "https://info.sonicretro.org/images/0/03/Sonic_3D_MD_US_Cover.jpg",
+              "page": "Sonic 3D: Flickies' Island",
+              "region": "USA",
+              "classification": "portrait_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 505384,
+                  "lossy90": 101470
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic_3D_MD_US_Cover.jpg",
+              "uploader": "Nova Toad",
+              "uploader_url": "https://info.sonicretro.org/User:Nova_Toad",
+              "uploaded_at": "2024-04-04T08:43:37Z",
+              "source_sha1": "3eb3b8115bf5bda5dfadf31f6af95917fe9aaec6",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic_3D_MD_US_Cover.jpg"
+            }
+          ],
+          "path": "MK-1844-00/cover_front3.webp"
         }
       },
       "serial_identifiers": [
@@ -313284,6 +314308,178 @@
             }
           ],
           "path": "T137056-01/cover_full.webp"
+        }
+      }
+    },
+    "00001051-02": {
+      "serial": "00001051-02",
+      "serial_identifiers": [
+        "00001051-02"
+      ],
+      "entries": [
+        {
+          "redump_id": "1756",
+          "entry_id": "1756",
+          "provider": "no-intro",
+          "name": "Sonic The Hedgehog 2 (World) (Rev B) (Sonic Compilation ~ Sonic Classics)",
+          "serial_raw": "00001051-02",
+          "serials": [
+            "00001051-02"
+          ],
+          "category": "Games",
+          "version": null
+        }
+      ],
+      "images": {
+        "cover_full": {
+          "kind": "cover_full",
+          "sha256": "2807f30f610df40079a7781b77c4a9bc97d6290c18cceb1f79896e3c41ec360d",
+          "bytes": 872338,
+          "width": 2500,
+          "height": 1560,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 5009808,
+              "lossy90": 872338
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic2_box_us.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "e9ac10bcb6ebbb0165d06c808951e66b17322d5a8ded3d7586edc7976301a26e",
+              "source_bytes": 3109594,
+              "url": "https://info.sonicretro.org/images/4/45/Sonic2_box_us.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 5009808,
+                  "lossy90": 872338
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic2_box_us.jpg",
+              "uploader": "Scarred Sun",
+              "uploader_url": "https://info.sonicretro.org/User:Scarred_Sun",
+              "uploaded_at": "2009-08-26T21:33:37Z",
+              "source_sha1": "9e5cfe7029b68b00ae882ea1621717ac99661d33",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic2_box_us.jpg"
+            }
+          ],
+          "path": "00001051-02/cover_full.webp"
+        },
+        "cover_full2": {
+          "kind": "cover_full",
+          "sha256": "3198aafa8a42487d8f8aca77d7975ebeef17940a5dde87e2d066c7db6dcd3f38",
+          "bytes": 899844,
+          "width": 2000,
+          "height": 1286,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 3693312,
+              "lossy90": 899844
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic2_md_nfr.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "ca2126487818bacab1e54af292fd0727d0a0580751f4ae5c5011f0c5922f4956",
+              "source_bytes": 675928,
+              "url": "https://info.sonicretro.org/images/4/47/Sonic2_md_nfr.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "selected_landscape_cover",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 3693312,
+                  "lossy90": 899844
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic2_md_nfr.jpg",
+              "uploader": "Scarred Sun",
+              "uploader_url": "https://info.sonicretro.org/User:Scarred_Sun",
+              "uploaded_at": "2008-07-10T19:21:59Z",
+              "source_sha1": "e6dfaaa02f08c8f9642c83f6e8421c5efe1a504b",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic2_md_nfr.jpg"
+            }
+          ],
+          "path": "00001051-02/cover_full2.webp"
+        },
+        "cover_full3": {
+          "kind": "cover_full",
+          "sha256": "8a1bbd403c0bd260d2a65481969622b2045812832d004a6b9a03fbcf02b0a1da",
+          "bytes": 313396,
+          "width": 1500,
+          "height": 962,
+          "alpha": false,
+          "compression": {
+            "policy": "smallest-lossless-or-lossy90-v2",
+            "lossless": false,
+            "reason": "smallest_webp",
+            "quality": 90,
+            "candidate_bytes": {
+              "lossless": 1538004,
+              "lossy90": 313396
+            }
+          },
+          "sources": [
+            {
+              "source": "Sonic Retro/Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "provider": "sonicretro",
+              "source_sha256": "105fe95f68619452a279954e2344ba4e3498a09382fabf5a1320ab3efff753e7",
+              "source_bytes": 426516,
+              "url": "https://info.sonicretro.org/images/8/81/Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "page": "Sonic the Hedgehog 2 (16-bit)",
+              "region": "USA",
+              "classification": "landscape_box",
+              "match": "exact_file_usage_or_explicit_alias",
+              "compression": {
+                "policy": "smallest-lossless-or-lossy90-v2",
+                "lossless": false,
+                "reason": "smallest_webp",
+                "quality": 90,
+                "candidate_bytes": {
+                  "lossless": 1538004,
+                  "lossy90": 313396
+                }
+              },
+              "file_page": "https://info.sonicretro.org/File:Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+              "uploader": "Nova Toad",
+              "uploader_url": "https://info.sonicretro.org/User:Nova_Toad",
+              "uploaded_at": "2024-06-07T14:28:07Z",
+              "source_sha1": "c4d2a9222acf308d3f31bde838bacf162b80e3f7",
+              "uploader_hidden": false,
+              "selection_id": "user-selected-megadrive-us-covers",
+              "selection_file_page": "https://info.sonicretro.org/File:Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg"
+            }
+          ],
+          "path": "00001051-02/cover_full3.webp"
         }
       }
     }
@@ -564312,6 +565508,27 @@
       "categories": [
         "Category:Good_Mega_Drive_US_box_scans",
         "Category:Good_Mega_Drive_US_cartridge_scans"
+      ]
+    },
+    "sonicretro": {
+      "name": "Sonic Retro",
+      "url": "https://info.sonicretro.org",
+      "scope": "Explicitly selected US Mega Drive/Genesis covers; official No-Intro identifiers; primary artwork selected by pixel count.",
+      "selection": "explicit_file_pages",
+      "file_pages": [
+        "https://info.sonicretro.org/File:Meanbean-box-us.jpg",
+        "https://info.sonicretro.org/File:S3d-box-us.jpg",
+        "https://info.sonicretro.org/File:Sk-box-us_back.jpg",
+        "https://info.sonicretro.org/File:Sk-box-us.jpg",
+        "https://info.sonicretro.org/File:Sonic_2_MD_US_NFR_Made_in_China_Cover.jpg",
+        "https://info.sonicretro.org/File:Sonic_3D_MD_US_Cover.jpg",
+        "https://info.sonicretro.org/File:Sonic1_box_us_nfr1.jpg",
+        "https://info.sonicretro.org/File:Sonic1_md_us_classic_cover.jpg",
+        "https://info.sonicretro.org/File:Sonic1_MD_US_nfr2_cover.jpg",
+        "https://info.sonicretro.org/File:Sonic2_box_us.jpg",
+        "https://info.sonicretro.org/File:Sonic2_md_nfr.jpg",
+        "https://info.sonicretro.org/File:Spinball-box-us.jpg",
+        "https://info.sonicretro.org/File:Sth_md_us_cover.jpg"
       ]
     }
   },
